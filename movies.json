@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "poster_path": "./s1.jpg",
+      "title": "Inception",
+      "vote_average": 8.8,
+      "overview": "A thief who enters the dreams of others to steal their secrets.",
+      "release_date": "2010-07-16"
+    },
+    {
+      "poster_path": "./s2.jpg",
+      "title": "The Dark Knight",
+      "vote_average": 9.0,
+      "overview": "Batman faces the Joker, a criminal mastermind seeking chaos in Gotham City.",
+      "release_date": "2008-07-18"
+    },
+    {
+      "poster_path": "./s3.jpg",
+      "title": "Pulp Fiction",
+      "vote_average": 8.9,
+      "overview": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine.",
+      "release_date": "1994-10-14"
+    },
+    {
+      "poster_path": "./s4.jpg",
+      "title": "The Shawshank Redemption",
+      "vote_average": 9.3,
+      "overview": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+      "release_date": "1994-09-23"
+    },
+    {
+      "poster_path": "./s5.jpg",
+      "title": "The Godfather",
+      "vote_average": 9.2,
+      "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "release_date": "1972-03-24"
+    },
+    {
+      "poster_path": "./s6.jpg",
+      "title": "Forrest Gump",
+      "vote_average": 8.8,
+      "overview": "A man with a low IQ witnesses and unwittingly influences several defining historical events in the 20th century USA.",
+      "release_date": "1994-07-06"
+    },
+    {
+      "poster_path": "./s1.jpg",
+      "title": "The Matrix",
+      "vote_average": 8.7,
+      "overview": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "release_date": "1999-03-31"
+    },
+    {
+      "poster_path": "./s5.jpg",
+      "title": "Schindler's List",
+      "vote_average": 8.9,
+      "overview": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "release_date": "1993-12-15"
+    },
+    {
+      "poster_path": "./s4.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "vote_average": 8.8,
+      "overview": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "release_date": "2001-12-19"
+    },
+    {
+      "poster_path": "./s2.jpg",
+      "title": "Inglourious Basterds",
+      "vote_average": 8.3,
+      "overview": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+      "release_date": "2009-08-21"
+    }
+  ]
+}
